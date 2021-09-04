@@ -11,6 +11,7 @@
       <title>Courses</title>
       <link>https://academic-demo.netlify.app/courses/</link>
     </image>
+    active: false
     
   </channel>
 </rss>

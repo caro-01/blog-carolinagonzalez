@@ -1,28 +1,26 @@
 ---
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
-education:
+Education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Licenciada en Ordenamiento Territorial
+    institution: Universidad Nacional
+    year: 2010
+  - course: Bachillerato en Turismo
+    institution: Universidad Hisponoamericana
+    year: 2015
+ 
+email: "elblogdelturista@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Viajes Nacionales e internacionales.
+- Experiencias de los viajeros.
+- Concejos y tips para hacer su viaje más fácil y placentero.
 organizations:
 - name: UNA -UCR
-  url: https://www.ucr.ac.cr
+  url: https://www.elblogdelturista.com
 
-role: Liceciada en Ordenamiento Territorial
+role: Licenciada en Ordenamiento Territorial
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,21 +31,16 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/caro-01
 superuser: true
-title: Carolina González
+title: El blog del viajero CR
 ---
 
-Estudiante de la Maestría en Sistemas de Información Geográfica de las universidades UNA - UCR.
+El blog del viajero CR es un espacio creado para compartir concejos de viaje entre viajeros nacionales e internacionales a nivel internacional y nacional relacionados a hospedaje, alimentación, transporte aéreo, terrestre, marítimo, tenemos a disposición un espacio para compartir experiencias propias de los viajeros,  tips para viajar con personas adultas mayores y niños y mucho más.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Le invitamos a compartir sus propias experiencias y utilizar este espacio para planear sus próximas vacaciones utilizando como referencia la información que ponemos asu disposición, ante cualquier duda 
+nos puede contactar por medio de nuestros canales oficiales.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descargue {{< staticref "uploads/demo_resume.pdf" "newtab" >}}aquí{{< /staticref >}}.
