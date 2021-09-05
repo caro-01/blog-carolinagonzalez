@@ -1,0 +1,27 @@
+---
+title: "Catarata las Cortinas el secreto mejor guardado de Ojo de Agua de Siquirres"
+author: "El blog del viajero"
+date: 2021-09-02T21:13:14-05:00
+categories: ["Turismo"]
+tags: ["Información turística", "Cataratas", "turismo nacional"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+## **Catarata las Cortinas**
+
+Esta catarata es bastante complicada para llegar, es apta para viajeros más intrepidos, nivel de exigencia es entre intermedio - avanzado pero les aseguro que cada paso vale la pena y cada viajero puede .
+
+Se entra por Bajos de Bonilla en Turrialba, la calle es puro lastre hasta llegar a la Escuela de Bonilla, se encuentra en buen estado y el paisaje es bastante bonito. Si va en carro sencillo, debe de dejarlo en la escuela y comenzar a caminar desde ahí, si va en carro 4x4 puede avanzar con mucho cuidado varios kilómetros más hasta llegar a una casa abandonada, tener en cuenta que el camino es bastante estrecho, ahí deja el carro y camina aproximadamente 40 minutos hasta llegar al portón de la entrada de la finca **"La Roca Expedition"**.
+
+Desde acá es pura bajada, tener en cuenta que debe llevar zapatos con buen agarre ya que en algunos sectores el camino se complica un poco y dependiendo de la fecha que vaya puede embarrialarse bastante. Desde el portón hasta la casa donde don Fabio y su esposa reciben a los visitantes son como 40 minutos de caminata aproximadamente, y desde la casa de este simpático matrimonio al pie de la catarata una hora más de camino. 
+
+Al llegar a la catarata se encontrará con una espectacular caída de agua de aproximadamente 45 metros de altura, si lo desea puede bajar hasta el pie de la misma en rapel y tomar unas fotos chivísimas, creame amigos cuando les digo que no se van a arrepentir.
+
+Recuerde llevar capa, repelente, bloquedador, agua y snaks para el camino.
+
+Más información en <https://quebuenlugar.com/lugares/cataratalascortinas/>
+
+

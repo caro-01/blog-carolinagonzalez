@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Concejos de viajes, tips, experiencias de los viajeros, recomendaciones de hospedajes, comidas, lugares y mucho más.
 Education:
   courses:
   - course: Licenciada en Ordenamiento Territorial

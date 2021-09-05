@@ -20,39 +20,30 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: blogdelviajero@gmail.com
+phone: (506) 2237 1540 / Whatsapp (506) 8830 2040
+
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: C78A, AV 3
+  city: San José
+  country: Costa Rica
+  country_code: CR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '9.940480'
+  longitude: '-84.114009'
+directions: Toque el timbre al llegar a la entrada, favor presentar el comprobante de su cita.
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Lunes - viernes 8:00 am a 5:00 pm'
+  - 'Sábado 08:00 am a 12:00 md'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Twitter
     link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
   - icon: comments
     icon_pack: fas
-    name: Discuss on Forum
+    name: Dejenos sus comentarios o consultas
     link: 'https://discourse.gohugo.io'
 
 # Site header

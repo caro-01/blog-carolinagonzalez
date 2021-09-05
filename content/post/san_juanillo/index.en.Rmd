@@ -1,9 +1,15 @@
 ---
-title: "El paraíso: playa San Juanillo"
+title: "El paraíso cerca de usted: playa San Juanillo"
 author: "El blog del viajero"
 date: 2021-09-02T21:13:14-05:00
 categories: ["Turismo"]
 tags: ["Información turística", "playa", "turismo nacional"]
+diagram: true
+highlight: true
+  image:
+  caption: 'Image credit: [**Conozca su canton**](https://caro-01.github.io/blog-carolinagonzalez/content/post/san_juanillo/index.en_files/figure-html/San-Juanillo.png)'
+  placement: 3
+  math: true
 ---
 
 ```{r setup, include=FALSE}
@@ -12,8 +18,8 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ## **Playa San Juanillo, un paraíso terrenal**
 
-Playa San Juanillo se encuentra en la provincia de Guanacaste, Costa Rica. Se caracteriza por su arena blanca y aguas color turquesas cristalinas, cuya punta es bañada por el mar a ambos lados. A un extremo, tiene una formación rocosa, la cual se puede escalar sin mucho esfuerzo. Todo esto convierte a playa San Juanillo en uno de los paisajes más hermosos del país.
+Playa San Juanillo se encuentra en la provincia de Guanacaste, Costa Rica. Se caracteriza por su arena blanca y aguas color turquesas cristalinas, cuya punta es bañada por el mar a ambos lados. A un extremo, se puede observar una formación rocosa que los viajeros pueden escalar sin mucho esfuerzo. Todo esto convierte a playa San Juanillo en uno de los paisajes más hermosos del país.
 
-Playa San Juanillo se encuentra a la par del pueblo que lleva el mismo nombre, cuya actividad principal es la pesca.
+Playa San Juanillo se encuentra localizasa en el pueblo que lleva el mismo nombre, cuya actividad principal económica es la pesca y el turismo.Venga y disfrute de este paraíso terrenal, San Juanillo te espera.
 
 Para más información consulte la página web <https://costaricainfolink.com/es/playa-san-juanillo-costa-rica/>
